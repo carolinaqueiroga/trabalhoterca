@@ -42,5 +42,7 @@
         }
     }
     ?>
+
+    <button><a href="listar.php">Lista dos Produtos Cadastrados</a></button>
 </body>
 </html>
